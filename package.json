@@ -1,0 +1,7 @@
+{
+  "name": "vue-cli-plugin-preset-bug-demo",
+  "version": "0.1.0",
+  "description": "A Vue CLI preset",
+  "repository": "git@github.com:tbl0605/vue-cli-plugin-preset-bug-demo.git",
+  "main": "index.js"
+}
